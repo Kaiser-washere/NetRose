@@ -1,0 +1,87 @@
+NetRose Source License (NRSL) Version 0.1
+
+0. Preamble
+The intent of this License is to establish freedom to share and modify the NetRose software under an open source model while preserving attribution, ethical use, and control over commercial integration. It includes a Contributor Agreement, a short cure-and-termination procedure for license violations, and a disclaimer of warranty. Companies wishing to use or incorporate Covered Software within their own products may require a separate commercial agreement with the NetRose Project.
+
+This License is the complete agreement concerning the subject matter hereof. It contains the license terms themselves, not the reasoning behind them or detailed explanations.
+
+1. Definitions
+Contribution means any work of authorship, including modifications or additions, intentionally submitted to the NetRose Project.
+
+Contributor means Licensor and any individual or entity whose Contribution is incorporated into Covered Software.
+
+Covered Software means the NetRose source code and binaries made available under this License.
+
+Derivative Work means any work that is based on, incorporates, links to, or is designed specifically to execute or parse the results of Covered Software. Examples include: (a) software that integrates NetRose source code; (b) software designed specifically to execute NetRose and parse its results; (c) installers or packages that include NetRose; (d) libraries or modules that link to NetRose. Generic wrappers or tools that merely invoke arbitrary command-line programs without being designed specifically for NetRose are not automatically Derivative Works.
+
+Executable means Covered Software in any form other than Source Code.
+
+Externally Deploy means to make Covered Software available to third parties, including via hosted services, APIs, or applications.
+
+Licensor means PurpleRose / NetRose Project.
+
+You means an individual or entity exercising permissions granted by this License.
+
+2. License Grant and GPL Relationship
+Grant. Subject to the terms of this License, Licensor grants You a worldwide, non-exclusive, royalty-free license to use, reproduce, modify, and distribute Covered Software.
+
+GPL v3 Base. Covered Software is licensed under the GNU General Public License version 3 (GPL v3). The Main License Body (this document) contains exceptions, clarifications, and additions to GPL v3; where a direct conflict exists, the terms of this Main License Body control for Covered Software. Third-party code included in a distribution under plain GPL v3 remains governed by GPL v3. You may not re-distribute Covered Software or Derivative Works under plain GPL v3 terms if doing so would conflict with the requirements of this Main License Body, without express written permission from Licensor.
+
+3. Derivative Works, Distribution, and NOTICE
+Distribution Requirement. Any distribution of Covered Software or a Derivative Work must include a copy of this License and, where applicable, the complete corresponding source code as required by GPL v3 and this Main License Body.
+
+NOTICE and Third-Party Components. Distributions must include a NOTICE file listing third-party components and their licenses if any are bundled or required.
+
+Installers and Linking. Bundling NetRose into an installer or linking libraries that are designed specifically to work with NetRose triggers the Derivative Work rules in this License. Mere aggregation on a storage medium does not.
+
+Sublicenses. You may grant sublicenses only to the extent permitted by this License and GPL v3.
+
+4. Contributor Agreement and Contributions
+Grant by Contributors. By submitting a Contribution to the NetRose Project, each Contributor grants Licensor and all licensees a perpetual, worldwide, non-exclusive, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Contribution and such Derivative Works in Source or Object form.
+
+Patent Grant. Each Contributor grants a perpetual, worldwide, non-exclusive, royalty-free patent license to make, use, sell, offer for sale, import, and otherwise transfer the Contribution to the extent such patent rights are necessarily infringed by the Contribution alone or by combination of the Contribution with the Work to which it was submitted.
+
+Not a Contribution. Contributors may withhold permission for Licensor to incorporate a submission by marking it in writing as “Not a Contribution” at the time of submission. The project should maintain a record of such markings.
+
+Patent Litigation Termination. If You initiate patent litigation (including cross-claims or counterclaims) alleging that Covered Software or any Contribution incorporated within Covered Software infringes a patent, then any patent licenses granted to You under this License for that Work shall automatically terminate as of the date such litigation is filed. This termination applies solely to the party initiating such litigation and does not affect the rights of other licensees.
+
+5. License Violation, Cure Period, and Termination
+Notice and Cure. If Licensor reasonably believes You have violated this License, Licensor will provide written notice describing the alleged violation and You will have fifteen (15) days from receipt of that notice to cure the violation. Cure may include removing the infringing material, providing required source code, or otherwise coming into compliance.
+
+Failure to Cure. If You fail to cure within the 15-day period, Licensor may terminate the rights granted to You under this License. Termination under this Section affects only the party in breach; it does not automatically terminate rights of other licensees who remain in compliance.
+
+Surviving Rights. Termination does not retroactively revoke rights already granted to third parties who received Covered Software from You prior to termination, except to the extent required by applicable law or as otherwise expressly stated in this License.
+
+6. External Deployment, Attribution, and Trademarks
+External Deployment Notice. If You Externally Deploy Covered Software (for example, by offering scanning or analysis as a service), You must, if technically feasible, prominently state in documentation and user interfaces that the system uses NetRose and provide a link or reference to the NetRose Project.
+
+Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of Licensor, except for reasonable attribution required to describe the origin of the Covered Software. Requests for trademark use must be made separately to Licensor.
+
+7. Commercial Licensing and Contact
+Commercial Agreements. Licensor may offer separate commercial or OEM licensing terms for organizations that require different terms than those in this License.
+
+Contact (temporary). For licensing inquiries, exceptions, or commercial discussions at this stage, contact via Discord: kaiserwashere. (An official email address may be added to this License in a future revision.)
+
+Recordkeeping. Requests for exceptions or commercial terms should be made in writing via the contact channel and will be handled according to Licensor’s then-current procedures.
+
+8. Limitation of Liability, Indemnity, and Export
+Disclaimer of Warranty. Covered Software is provided AS IS, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. You assume all risk arising from use of Covered Software.
+
+Limitation of Liability. To the maximum extent permitted by applicable law, in no event will Licensor or Contributors be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or related to this License or Covered Software, even if advised of the possibility of such damages.
+
+Indemnity. You agree to indemnify and hold harmless Licensor and Contributors from any claims, liabilities, losses, or expenses (including reasonable attorneys’ fees) arising from Your use or distribution of Covered Software in violation of this License.
+
+Export Controls. You are responsible for complying with all applicable export and import laws and regulations. Licensor makes no representation that Covered Software may be lawfully exported to or used in any particular jurisdiction.
+
+9. Governing Law, Jurisdiction, and Versioning
+Governing Law. This License shall be governed by the laws of the Republic of Türkiye, excluding its conflict-of-law provisions.
+
+Jurisdiction. Any disputes arising under this License shall be resolved in the courts of Türkiye.
+
+Versioning. This document is NRSL v0.1. Licensor may publish revised versions. Use of Covered Software distributed under a specific version indicates acceptance of that version. Licensor may, at its discretion, designate that a given distribution is licensed under “NRSL v0.1 or any later version.”
+
+10. Ethical Use
+NetRose is intended for authorized security testing, research, and educational purposes only. Unauthorized attacks, privacy violations, or other unethical or illegal uses are strictly prohibited. Compliance with local laws, organizational policies, and ethical guidelines is Your responsibility.
+
+Copyright (c) 2026 KaiserWashere. Licensed under the NetRose Source License (NRSL) v0.1.
+
